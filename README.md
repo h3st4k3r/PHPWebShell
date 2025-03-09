@@ -5,6 +5,8 @@
 
 **⚠️ Warning:** This tool is for **authorized security testing** only. Unauthorized use is illegal.
 
+<img width="1377" alt="image" src="https://github.com/user-attachments/assets/e3ae6027-f191-4e85-81ff-ef545b4057e2" />
+
 ---
 
 ## 🔥 Features
